@@ -120,7 +120,7 @@ input::placeholder {
     width: 30px;
     position: absolute;
     top: 43px;
-    right: 165px;
+    right: 117px;
     cursor: pointer;
     background-color: #2c71b8;
     border-style: none;
@@ -222,15 +222,15 @@ select {
 }
 
 .row {
-    color: #ffffff;
+   color: #ffffff;
     border: 2px solid #ffffff;
     overflow: hidden;
     width: 270px;
     height: 650px;
-    margin: 20px;
+    margin: 5px;
 }
 .catalog {
-    display:flex;
+     display:flex;
     overflow: hidden;
     justify-content:first baseline
     margin: 20px;
